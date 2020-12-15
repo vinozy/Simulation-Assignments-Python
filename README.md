@@ -1,5 +1,5 @@
 # Simulation-Assignments-Python
-Assignments written in Python for course IEOR E4404 Simulation (Fall 4404) at Columbia University.
+Assignments written in Python for course IEOR E4404 Simulation (Fall 2020) at Columbia University.
 
 Course Topics including:
 - 1. Sampling from a Discrete Distribution: inverse transform method, rejection sampling method, composition method and boosting the efficiency.
